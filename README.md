@@ -28,7 +28,8 @@ A list of geospatial resources in North Carolina
 - Wake
  - [GIS - Download Data](http://www.wakegov.com/gis/services/Pages/data.aspx)
  - [Open Data](http://data-wake.opendata.arcgis.com/)
- - [REST Services Directory](https://services1.arcgis.com/a7CWfuGP5ZnLYE7I/ArcGIS/rest/services)
+ - [REST Services Directory](http://maps.wakegov.com/arcgis/rest/services/)
+ - [AGOL REST Services Directory](https://services1.arcgis.com/a7CWfuGP5ZnLYE7I/ArcGIS/rest/services)
 
 ## State
 
